@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"matching_system.users"},{"v":2,"unique":true,"key":{"phone":1},"name":"phone_1","ns":"matching_system.users","background":true}],"uuid":"98b3edf7c958454780b32b74dc591d33"}
